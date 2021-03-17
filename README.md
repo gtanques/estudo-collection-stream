@@ -1,15 +1,16 @@
 ## Collections
 
 ### Queue
-    - Ordena em sistema de filas
+    - Ordena em sistema de filas (primeiro a entrar primeiro a sair)
     - Permite adição, leitura e remoção considerando a regra básica
-    - de uma fila: Primeiro que entra primeiro que sai.
+    de uma fila: Primeiro que entra primeiro que sai.
     - Não permite mudança na ordenação.
 
 ### Set
 - Por padrão não garate ordem.
 - Não Permite itens repetidos.
-- Permite adição e remoção normalmente.Não possui busca por item e atualização para leitura, apenas navegação.
+- Permite adição e remoção normalmente.
+- Não possui busca por item e atualização para leitura, apenas navegação.
 - Não permite mudança de ordenação.
 - Não indexada.
 
